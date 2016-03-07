@@ -17,19 +17,6 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-
-    
-    NSLog(@"jkiioio");
-    
-    /*
-     
-     创建分支One
-     
-     */
-    
-    NSLog(@"分支One");
-    NSLog(@"4454544");
-    
     
     
     
