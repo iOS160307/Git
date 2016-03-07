@@ -27,6 +27,11 @@
     
     NSLog(@"你好 世界");
     
+    UIView *view = [[UIView alloc] initWithFrame:self.view.frame];
+    
+    view.backgroundColor = [UIColor orangeColor];
+    
+    [self.view addSubview:view];
 }
 
 - (void)didReceiveMemoryWarning {
